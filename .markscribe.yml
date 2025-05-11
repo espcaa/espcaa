@@ -1,0 +1,4 @@
+wakatime:
+  apiKey: ${{ secrets.WAKATIME_API_KEY }}
+  apiUrl: https://hackatime.hackclub.com/api
+  showTitle: true
