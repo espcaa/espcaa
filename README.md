@@ -1,19 +1,19 @@
-the last repo i worked on was espcaa/espcaa and my last commit was [1cb5073](https://github.com/espcaa/espcaa/commit/1cb5073ce7983440b91bbcdddb5277ddffa4e10b) \
+the last repo i worked on was espcaa/espcaa and my last commit was [4453d87](https://github.com/espcaa/espcaa/commit/4453d87d85c81f192e93901de9e83fda5340ca4d) \
 \
 yesterday i spent 4.5 hours coding! \
 \
 random stats (all time data): \
 \
--&gt; Gdscript3  [████████████████████] 242h \
--&gt; Gdscript   [████████████░░░░░░░░] 145h \
+-&gt; Gdscript3　 [████████████████████] 242h \
+-&gt; Gdscript　　 [████████████░░░░░░░░] 145h \
 -&gt; TypeScript [████████░░░░░░░░░░░░] 93h \
--&gt; Scene      [███████░░░░░░░░░░░░░] 79h \
--&gt; Go         [█████░░░░░░░░░░░░░░░] 58h \
+-&gt; Scene　　　　　 [███████░░░░░░░░░░░░░] 79h \
+-&gt; Go　　　　　　　　 [█████░░░░░░░░░░░░░░░] 58h \
 -&gt; JavaScript [███░░░░░░░░░░░░░░░░░] 38h \
--&gt; Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h \
+-&gt; Kotlin　　　　 [██░░░░░░░░░░░░░░░░░░] 24h \
 -&gt; TypeScript [██░░░░░░░░░░░░░░░░░░] 19h \
--&gt; Aseprite   [██░░░░░░░░░░░░░░░░░░] 19h \
--&gt; Tsx        [█░░░░░░░░░░░░░░░░░░░] 17h \
+-&gt; Aseprite　　 [██░░░░░░░░░░░░░░░░░░] 19h \
+-&gt; Tsx　　　　　　　 [█░░░░░░░░░░░░░░░░░░░] 17h \
 \
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\__\/)\
@@ -23,4 +23,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Nov 2025 at 20:17 CET_
+_this was updated on 18 Nov 2025 at 20:20 CET_

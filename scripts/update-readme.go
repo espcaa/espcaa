@@ -169,6 +169,8 @@ func main() {
 	}
 }
 
+const fullWidthSpace = "　"
+
 func generateLanguageBars(langs []LanguageStat, top int) string {
 	if len(langs) < top {
 		top = len(langs)
@@ -180,11 +182,10 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 	md := ""
 	barLength := 20
 
-	// Find the longest language name
 	maxNameLen := 0
 	for i := 0; i < top; i++ {
-		if len(langs[i].Name) > maxNameLen {
-			maxNameLen = len(langs[i].Name)
+		if len([]rune(langs[i].Name)) > maxNameLen {
+			maxNameLen = len([]rune(langs[i].Name))
 		}
 	}
 
@@ -207,8 +208,8 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 		empty := barLength - filled
 		bar := fmt.Sprintf("[%s%s] %dh \\", strings.Repeat("█", filled), strings.Repeat("░", empty), lang.Hours)
 
-		// Pad language name to align bars
-		md += fmt.Sprintf("-> %-*s %s\n", maxNameLen, lang.Name, bar)
+		padding := maxNameLen - len([]rune(lang.Name))
+		md += fmt.Sprintf("-> %s%s %s\n", lang.Name, strings.Repeat(fullWidthSpace, padding), bar)
 	}
 
 	return md
