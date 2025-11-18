@@ -171,6 +171,18 @@ func main() {
 
 const fullWidthSpace = "　"
 
+func visualWidth(s string) int {
+	width := 0
+	for _, r := range s {
+		if r > 0xFF { // crude approximation: non-ASCII chars take 2 spaces
+			width += 2
+		} else {
+			width += 1
+		}
+	}
+	return width
+}
+
 func generateLanguageBars(langs []LanguageStat, top int) string {
 	if len(langs) < top {
 		top = len(langs)
@@ -182,10 +194,12 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 	md := ""
 	barLength := 20
 
-	maxNameLen := 0
+	// calculate max visual width
+	maxNameWidth := 0
 	for i := 0; i < top; i++ {
-		if len([]rune(langs[i].Name)) > maxNameLen {
-			maxNameLen = len([]rune(langs[i].Name))
+		w := visualWidth(langs[i].Name)
+		if w > maxNameWidth {
+			maxNameWidth = w
 		}
 	}
 
@@ -208,7 +222,7 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 		empty := barLength - filled
 		bar := fmt.Sprintf("[%s%s] %dh \\", strings.Repeat("█", filled), strings.Repeat("░", empty), lang.Hours)
 
-		padding := maxNameLen - len([]rune(lang.Name))
+		padding := maxNameWidth - visualWidth(lang.Name)
 		md += fmt.Sprintf("-> %s%s %s\n", lang.Name, strings.Repeat(fullWidthSpace, padding), bar)
 	}
 
