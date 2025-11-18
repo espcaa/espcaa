@@ -23,7 +23,7 @@ jobs:
           go-version: "1.21"
 
       - name: install the shiny packages
-        run: cd scripts && go mod tidy
+        run: cd scripts && go mod tidy && go install
 
       - name: running the script...
         run: go run scripts/update-readme.go
