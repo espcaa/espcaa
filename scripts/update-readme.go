@@ -222,7 +222,10 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 		bar := fmt.Sprintf("[%s%s] %dh", strings.Repeat("█", filled), strings.Repeat("░", empty), lang.Hours)
 
 		padding := maxNameWidth - visualWidth(lang.Name)
-		md += fmt.Sprintf("↳ %s%s %s\n", lang.Name, strings.Repeat(fullWidthSpace, padding), bar)
+		md += fmt.Sprintf("↳ %s%s %s", lang.Name, strings.Repeat(fullWidthSpace, padding), bar)
+		if i < top-1 {
+			md += "\n"
+		}
 	}
 
 	return md

@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/espcaa and my last commit was [3e281b6](https://github.com/espcaa/espcaa/commit/3e281b6cdce12f190c813e0fa394961f21704c9e) \
+the last repo i worked on was espcaa/espcaa and my last commit was [a45604d](https://github.com/espcaa/espcaa/commit/a45604de6e480bdae2a17fba296485ad0d7bcf3d) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -16,7 +16,6 @@ random stats (all time data): \
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 19h
 ↳ Aseprite   [██░░░░░░░░░░░░░░░░░░] 19h
 ↳ Tsx        [█░░░░░░░░░░░░░░░░░░░] 17h
-
 ```
 -°-
 \
@@ -27,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Nov 2025 at 20:36 CET_
+_this was updated on 18 Nov 2025 at 20:37 CET_
