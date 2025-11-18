@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: clone the repo
+        uses: actions/checkout@v4
+
+      - name: download gooo :)
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.21"
+
+      - name: running the script...
+        run: go run scripts/update-readme.go
+
+      - name: committing!
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README [skip ci]" || echo "No changes to commit"
+          git push
