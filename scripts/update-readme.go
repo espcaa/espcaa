@@ -197,7 +197,7 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 			filled = barLength
 		}
 		empty := barLength - filled
-		bar := fmt.Sprintf("[%s%s] %dh", strings.Repeat("█", filled), strings.Repeat("░", empty), lang.Hours)
+		bar := fmt.Sprintf("[%s%s] %dh \\", strings.Repeat("█", filled), strings.Repeat("░", empty), lang.Hours)
 		md += fmt.Sprintf("-> %s %s\n", lang.Name, bar)
 	}
 
