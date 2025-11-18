@@ -2,7 +2,7 @@ the last repo i worked on was espcaa/espcaa and my last commit was [82578bf](htt
 \
 yesterday i spent 4.5 hours coding! \
 \
-random stats: (all time data)\
+random stats (all time data): \
 \
 -&gt; Gdscript3 [████████████████████] 242h \
 -&gt; Gdscript [████████████░░░░░░░░] 145h \
@@ -23,4 +23,4 @@ random stats: (all time data)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Nov 2025 at 20:07 CET_
+_this was updated on 18 Nov 2025 at 20:09 CET_
