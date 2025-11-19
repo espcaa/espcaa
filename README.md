@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/espcaa and my last commit was [a45604d](https://github.com/espcaa/espcaa/commit/a45604de6e480bdae2a17fba296485ad0d7bcf3d) \
+the last repo i worked on was espcaa/espcaa and my last commit was [a49a0ed](https://github.com/espcaa/espcaa/commit/a49a0edf8b485801d7c2be4f62b9398b15a680b3) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -23,7 +23,7 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-(__(=:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;\ &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;＼)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;|&nbsp;|\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;|\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Nov 2025 at 20:37 CET_
+_this was updated on 19 Nov 2025 at 13:37 UTC_
