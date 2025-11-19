@@ -1,4 +1,4 @@
-name: Update README
+name: update the readme!!
 
 on:
   schedule:
@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 env:
   SLACK_ID: "U05MKEZUY67"
@@ -17,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
       - name: clone the repo
         uses: actions/checkout@v4
 
@@ -36,5 +40,5 @@ jobs:
           git config --global user.name "bot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README [skip ci]" || echo "No changes to commit"
+          git commit -m "daily readme update" || echo "No changes to commit"
           git push
