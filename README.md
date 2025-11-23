@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/pixels and my last commit was [748c14d](https://github.com/espcaa/pixels/commit/748c14d59fc61b9e334bd56871970bc8fd2295c3) \
+the last repo i worked on was espcaa/slack-desktop-experiments and my last commit was [b01ba86](https://github.com/espcaa/slack-desktop-experiments/commit/b01ba86823d53184b5a44d49099b4362cd1da515) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -10,7 +10,7 @@ random stats (all time data): \
 ↳ Gdscript   [████████████░░░░░░░░] 145h
 ↳ TypeScript [████████░░░░░░░░░░░░] 93h
 ↳ Scene      [███████░░░░░░░░░░░░░] 79h
-↳ Go         [█████░░░░░░░░░░░░░░░] 58h
+↳ Go         [█████░░░░░░░░░░░░░░░] 59h
 ↳ JavaScript [███░░░░░░░░░░░░░░░░░] 38h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 19h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 22 Nov 2025 at 01:02 UTC_
+_this was updated on 23 Nov 2025 at 01:14 UTC_
