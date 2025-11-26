@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/slack-plugin-thingy and my last commit was [ef4425c](https://github.com/espcaa/slack-plugin-thingy/commit/ef4425c4568c5398b29300c24879a1b7adf66c7b) \
+the last repo i worked on was espcaa/slack-plugin-thingy and my last commit was [d93d6e1](https://github.com/espcaa/slack-plugin-thingy/commit/d93d6e1cad6987332eeeed6d87323c22ffac1909) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -8,10 +8,10 @@ random stats (all time data): \
 ```
 ↳ Gdscript3  [████████████████████] 242h
 ↳ Gdscript   [████████████░░░░░░░░] 145h
-↳ TypeScript [████████░░░░░░░░░░░░] 94h
+↳ TypeScript [████████░░░░░░░░░░░░] 96h
 ↳ Scene      [███████░░░░░░░░░░░░░] 79h
 ↳ Go         [█████░░░░░░░░░░░░░░░] 60h
-↳ JavaScript [███░░░░░░░░░░░░░░░░░] 41h
+↳ JavaScript [████░░░░░░░░░░░░░░░░] 43h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 19h
 ↳ Aseprite   [██░░░░░░░░░░░░░░░░░░] 19h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 25 Nov 2025 at 01:05 UTC_
+_this was updated on 26 Nov 2025 at 01:06 UTC_
