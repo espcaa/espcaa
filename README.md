@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/slack-plugin-thingy and my last commit was [d93d6e1](https://github.com/espcaa/slack-plugin-thingy/commit/d93d6e1cad6987332eeeed6d87323c22ffac1909) \
+the last repo i worked on was espcaa/slack-plugin-thingy and my last commit was [6b4be09](https://github.com/espcaa/slack-plugin-thingy/commit/6b4be09299379cfa49ed3b750c84d1495b5b1706) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 27 Nov 2025 at 01:05 UTC_
+_this was updated on 28 Nov 2025 at 01:03 UTC_
