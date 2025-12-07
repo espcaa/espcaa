@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/snail-plugin-api and my last commit was [c397b06](https://github.com/espcaa/snail-plugin-api/commit/c397b06103fbd102ef4e389f96bd7704562a7193) \
+the last repo i worked on was espcaa/snail and my last commit was [29028d9](https://github.com/espcaa/snail/commit/29028d9a2f8c7f511e9501d466f254da3e3081fe) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -8,10 +8,10 @@ random stats (all time data): \
 ```
 ↳ Gdscript3  [████████████████████] 242h
 ↳ Gdscript   [████████████░░░░░░░░] 145h
-↳ TypeScript [█████████░░░░░░░░░░░] 107h
+↳ TypeScript [█████████░░░░░░░░░░░] 109h
 ↳ Scene      [███████░░░░░░░░░░░░░] 79h
 ↳ Go         [█████░░░░░░░░░░░░░░░] 63h
-↳ JavaScript [████░░░░░░░░░░░░░░░░] 47h
+↳ JavaScript [████░░░░░░░░░░░░░░░░] 48h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 21h
 ↳ Aseprite   [██░░░░░░░░░░░░░░░░░░] 19h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 06 Dec 2025 at 01:04 UTC_
+_this was updated on 07 Dec 2025 at 01:14 UTC_
