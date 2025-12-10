@@ -1,4 +1,4 @@
-the last repo i worked on was espcaa/snail and my last commit was [4abdf4f](https://github.com/espcaa/snail/commit/4abdf4f50516c14adaf841307d8dd58277d0c36b) \
+the last repo i worked on was espcaa/snail-docs and my last commit was [c65a9cb](https://github.com/espcaa/snail-docs/commit/c65a9cb9d6d0aba361716d3af5f7fe6b94ee6611) \
 \
 yesterday i spent 4.5 hours coding! \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 09 Dec 2025 at 01:07 UTC_
+_this was updated on 10 Dec 2025 at 01:09 UTC_
