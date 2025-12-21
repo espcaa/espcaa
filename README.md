@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/website and my last commit was [af25867](https://github.com/espcaa/website/commit/af2586706fcce6d8c8f5a92fb3ccad59d33a7a51) \
 \
-yesterday i spent 4.5 hours coding! \
+yesterday, i spent 0s coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 14 Dec 2025 at 01:14 UTC_
+_this was updated on 21 Dec 2025 at 12:46 CET_

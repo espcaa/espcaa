@@ -62,6 +62,7 @@ type ReadmeParams struct {
 	HackatimeData string
 	UpdatedDate   string
 	UpdatedTime   string
+	YesterdayDate string
 }
 
 func main() {
@@ -102,29 +103,16 @@ func main() {
 		}
 	}
 
-	// fetch hackatime data
+	// fetch hackatime data for yesterday
 
-	resp, err := http.Get("https://hackatime.hackclub.com/api/v1/users/" + slackID + "/stats")
-	if err != nil {
-		panic(err)
-	}
-	defer resp.Body.Close()
+	yesterday := time.Now().AddDate(0, 0, -1)
 
-	var allTimeStats HackatimeStats
-	if err := json.NewDecoder(resp.Body).Decode(&allTimeStats); err != nil {
-		panic(err)
-	}
-
-	var yesterday = time.Now().AddDate(0, 0, -1)
-	// generate start/end time being 00:01 yesterday UTC+1 to 23:59 yesterday UTC+1
-	// to get daily stats
-
-	var startDate = time.Date(yesterday.Year(), yesterday.Month(), yesterday.Day(), 0, 1, 0, 0, time.UTC).Add(1 * time.Hour)
-	var endDate = time.Date(yesterday.Year(), yesterday.Month(), yesterday.Day(), 23, 59, 0, 0, time.UTC)
+	startDate := yesterday.Format("2006-01-02")
+	endDate := time.Now().Format("2006-01-02")
 
 	url := "https://hackatime.hackclub.com/api/v1/users/" + slackID +
-		"/stats?start_date=%22" + startDate.Format(time.RFC3339) +
-		"%22&end_date=%22" + endDate.Format(time.RFC3339) + "%22"
+		"/stats?start_date=" + startDate +
+		"&end_date=" + endDate
 
 	println("Fetching daily stats from URL: ", url)
 	respDaily, err := http.Get(url)
@@ -138,9 +126,21 @@ func main() {
 		panic(err)
 	}
 
+	// fetch all-time stats for language breakdown
+	respAllTime, err := http.Get("https://hackatime.hackclub.com/api/v1/users/" + slackID + "/stats")
+	if err != nil {
+		panic(err)
+	}
+	defer respAllTime.Body.Close()
+
+	var allTimeStats HackatimeStats
+	if err := json.NewDecoder(respAllTime.Body).Decode(&allTimeStats); err != nil {
+		panic(err)
+	}
+
 	// set params for hackatime
 
-	params.HoursWorked = "4.5 hours"
+	params.HoursWorked = formatDuration(dailyStats.Data.TotalSeconds)
 	params.HackatimeData = generateLanguageBars(allTimeStats.Data.Languages, 10)
 
 	// set date and time
@@ -229,4 +229,18 @@ func generateLanguageBars(langs []LanguageStat, top int) string {
 	}
 
 	return md
+}
+
+func formatDuration(seconds int64) string {
+	d := time.Duration(seconds) * time.Second
+
+	if d < time.Minute {
+		return fmt.Sprintf("%ds", int(d.Seconds()))
+	} else if d < time.Hour {
+		return fmt.Sprintf("%dmin", int(d.Minutes()))
+	} else {
+		hours := int(d.Hours())
+		minutes := int(d.Minutes()) % 60
+		return fmt.Sprintf("%dh%02d", hours, minutes)
+	}
 }
