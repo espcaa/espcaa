@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/espcaa and my last commit was [7b5b3c5](https://github.com/espcaa/espcaa/commit/7b5b3c57365221ca036bff178eece4bd9682e079) \
+the last repo i worked on was espcaa/astro-blog-experiment and my last commit was [f5db50d](https://github.com/espcaa/astro-blog-experiment/commit/f5db50dc7c46f7fac5ec04bb4dad1a5510f33692) \
 \
-yesterday, i spent 28min coding! \
+yesterday, i spent 14min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 22 Dec 2025 at 01:12 UTC_
+_this was updated on 24 Dec 2025 at 01:09 UTC_
