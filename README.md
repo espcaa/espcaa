@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/hackatime-zed and my last commit was [f3dcdda](https://github.com/espcaa/hackatime-zed/commit/f3dcddab3896577f7b85e318fa40a3b0b8e1cdfa) \
+the last repo i worked on was espcaa/zed-hackatime and my last commit was [91b5f69](https://github.com/espcaa/zed-hackatime/commit/91b5f69ea29365c39f828c2480bcde74c570d1db) \
 \
-yesterday, i spent 58min coding! \
+yesterday, i spent 1h19 coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 25 Dec 2025 at 01:09 UTC_
+_this was updated on 26 Dec 2025 at 01:09 UTC_
