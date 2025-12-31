@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/extensions and my last commit was [16b87c8](https://github.com/espcaa/extensions/commit/16b87c847b8a4aa422565e08fc642cf39d0a802d) \
+the last repo i worked on was espcaa/droneeee and my last commit was [2000483](https://github.com/espcaa/droneeee/commit/20004837337c6bbebdb24cb37e5c1dfb5074899d) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 50min coding! \
 \
 random stats (all time data): \
 \
@@ -10,7 +10,7 @@ random stats (all time data): \
 ↳ Gdscript   [████████████░░░░░░░░] 145h
 ↳ TypeScript [█████████░░░░░░░░░░░] 111h
 ↳ Scene      [███████░░░░░░░░░░░░░] 79h
-↳ Go         [█████░░░░░░░░░░░░░░░] 65h
+↳ Go         [█████░░░░░░░░░░░░░░░] 66h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 30 Dec 2025 at 01:10 UTC_
+_this was updated on 31 Dec 2025 at 01:11 UTC_
