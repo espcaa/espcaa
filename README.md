@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/droneeee and my last commit was [2000483](https://github.com/espcaa/droneeee/commit/20004837337c6bbebdb24cb37e5c1dfb5074899d) \
+the last repo i worked on was espcaa/zed-hackatime and my last commit was [ef212c4](https://github.com/espcaa/zed-hackatime/commit/ef212c4e171b9e86e4a5455cf0195ceaec436600) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 1h39 coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 02 Jan 2026 at 01:11 UTC_
+_this was updated on 03 Jan 2026 at 01:07 UTC_
