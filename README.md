@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/zed-hackatime and my last commit was [ef212c4](https://github.com/espcaa/zed-hackatime/commit/ef212c4e171b9e86e4a5455cf0195ceaec436600) \
+the last repo i worked on was espcaa/wakatime-aseprite and my last commit was [c587b58](https://github.com/espcaa/wakatime-aseprite/commit/c587b5875e5af008996831cad4af2d5ad9db8bc8) \
 \
-yesterday, i spent 1h39 coding! \
+yesterday, i spent 54min coding! \
 \
 random stats (all time data): \
 \
@@ -10,7 +10,7 @@ random stats (all time data): \
 ↳ Gdscript   [████████████░░░░░░░░] 145h
 ↳ TypeScript [█████████░░░░░░░░░░░] 111h
 ↳ Scene      [███████░░░░░░░░░░░░░] 79h
-↳ Go         [█████░░░░░░░░░░░░░░░] 66h
+↳ Go         [██████░░░░░░░░░░░░░░] 67h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 03 Jan 2026 at 01:07 UTC_
+_this was updated on 04 Jan 2026 at 01:18 UTC_
