@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/wakatime-aseprite and my last commit was [c587b58](https://github.com/espcaa/wakatime-aseprite/commit/c587b5875e5af008996831cad4af2d5ad9db8bc8) \
+the last repo i worked on was espcaa/wakatime-aseprite and my last commit was [1b50f0f](https://github.com/espcaa/wakatime-aseprite/commit/1b50f0f94fc742408b9e56096cc87c00686c8e66) \
 \
-yesterday, i spent 54min coding! \
+yesterday, i spent 2h06 coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 04 Jan 2026 at 01:18 UTC_
+_this was updated on 05 Jan 2026 at 01:17 UTC_
