@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/snail and my last commit was [1fd22fc](https://github.com/espcaa/snail/commit/1fd22fc0e6c701a70da74d660149dc0afcbf21cc) \
 \
-yesterday, i spent 3h24 coding! \
+yesterday, i spent 2min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Jan 2026 at 00:14 UTC_
+_this was updated on 19 Jan 2026 at 00:14 UTC_
