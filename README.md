@@ -1,13 +1,13 @@
 the last repo i worked on was espcaa/snail and my last commit was [1fd22fc](https://github.com/espcaa/snail/commit/1fd22fc0e6c701a70da74d660149dc0afcbf21cc) \
 \
-yesterday, i spent 1h06 coding! \
+yesterday, i spent 3h01 coding! \
 \
 random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 251h
-↳ Gdscript   [████████████░░░░░░░░] 145h
+↳ Gdscript3  [████████████████████] 253h
+↳ Gdscript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [█████████░░░░░░░░░░░] 111h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ Go         [██████░░░░░░░░░░░░░░] 71h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 21 Jan 2026 at 00:13 UTC_
+_this was updated on 22 Jan 2026 at 00:13 UTC_
