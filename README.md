@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/clicky-devboard and my last commit was [c445f54](https://github.com/espcaa/clicky-devboard/commit/c445f540d42ca0e1093ab83e33bae6b7c9aee701) \
 \
-yesterday, i spent 35min coding! \
+yesterday, i spent 6min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 30 Jan 2026 at 00:16 UTC_
+_this was updated on 31 Jan 2026 at 00:15 UTC_
