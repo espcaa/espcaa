@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/clicky-devboard and my last commit was [c445f54](https://github.com/espcaa/clicky-devboard/commit/c445f540d42ca0e1093ab83e33bae6b7c9aee701) \
+the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [e576c11](https://github.com/espcaa/slack-flight-tracking/commit/e576c11a4d443d1aaa9269c1ab06f390354d3502) \
 \
-yesterday, i spent 2h31 coding! \
+yesterday, i spent 1h52 coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 01 Feb 2026 at 00:18 UTC_
+_this was updated on 02 Feb 2026 at 00:16 UTC_
