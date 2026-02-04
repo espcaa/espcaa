@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [5cff897](https://github.com/espcaa/slack-flight-tracking/commit/5cff89757de4e1823b4f9dbda9a918ae964d0d14) \
+the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [c7061e3](https://github.com/espcaa/slack-flight-tracking/commit/c7061e36d645397d8a3a39fefe4a829a2d3d83e4) \
 \
-yesterday, i spent 4h11 coding! \
+yesterday, i spent 2h44 coding! \
 \
 random stats (all time data): \
 \
@@ -9,8 +9,8 @@ random stats (all time data): \
 ↳ Gdscript3  [████████████████████] 262h
 ↳ Gdscript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [█████████░░░░░░░░░░░] 112h
+↳ Go         [██████░░░░░░░░░░░░░░] 80h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
-↳ Go         [██████░░░░░░░░░░░░░░] 77h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 03 Feb 2026 at 00:17 UTC_
+_this was updated on 04 Feb 2026 at 00:14 UTC_
