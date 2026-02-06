@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [e4c0ab5](https://github.com/espcaa/slack-flight-tracking/commit/e4c0ab5a2150cbbcd6254c5f0eb0bde66d343de4) \
 \
-yesterday, i spent 2h48 coding! \
+yesterday, i spent 1h25 coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 05 Feb 2026 at 00:17 UTC_
+_this was updated on 06 Feb 2026 at 00:15 UTC_
