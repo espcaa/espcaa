@@ -1,14 +1,14 @@
-the last repo i worked on was espcaa/spaceship-tui and my last commit was [e40746b](https://github.com/espcaa/spaceship-tui/commit/e40746b12a1f1e695f6dcca648f9613a7a2e827b) \
+the last repo i worked on was espcaa/train-postage-idk- and my last commit was [ab4055d](https://github.com/espcaa/train-postage-idk-/commit/ab4055d19db3ca856ed801d4bb58b0153a7b63c3) \
 \
-yesterday, i spent 2h29 coding! \
+yesterday, i spent 2h10 coding! \
 \
 random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 263h
+↳ Gdscript3  [████████████████████] 264h
 ↳ Gdscript   [███████████░░░░░░░░░] 145h
-↳ TypeScript [█████████░░░░░░░░░░░] 112h
+↳ TypeScript [████████░░░░░░░░░░░░] 112h
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 19 Feb 2026 at 00:18 UTC_
+_this was updated on 20 Feb 2026 at 00:15 UTC_
