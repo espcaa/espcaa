@@ -1,12 +1,12 @@
-the last repo i worked on was espcaa/train-postage-idk- and my last commit was [ab4055d](https://github.com/espcaa/train-postage-idk-/commit/ab4055d19db3ca856ed801d4bb58b0153a7b63c3) \
+the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [ab5fd83](https://github.com/espcaa/slack-flight-tracking/commit/ab5fd8342d5aa4cecff51a4e27bde6b4dcc19a8a) \
 \
-yesterday, i spent 2h10 coding! \
+yesterday, i spent 1h24 coding! \
 \
 random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 264h
+↳ Gdscript3  [████████████████████] 265h
 ↳ Gdscript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [████████░░░░░░░░░░░░] 112h
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
@@ -15,7 +15,7 @@ random stats (all time data): \
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ Aseprite   [██░░░░░░░░░░░░░░░░░░] 20h
-↳ Tsx        [█░░░░░░░░░░░░░░░░░░░] 19h
+↳ Other      [█░░░░░░░░░░░░░░░░░░░] 19h
 ```
 -°-
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 20 Feb 2026 at 00:15 UTC_
+_this was updated on 21 Feb 2026 at 00:16 UTC_
