@@ -1,12 +1,12 @@
-the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [ab5fd83](https://github.com/espcaa/slack-flight-tracking/commit/ab5fd8342d5aa4cecff51a4e27bde6b4dcc19a8a) \
+the last repo i worked on was solacite/french-baby-feet and my last commit was [9d04836](https://github.com/solacite/french-baby-feet/commit/9d048364ad035d42d2f4b95cd3fcb8b3266a8ca1) \
 \
-yesterday, i spent 1h24 coding! \
+yesterday, i spent 35min coding! \
 \
 random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 265h
+↳ Gdscript3  [████████████████████] 266h
 ↳ Gdscript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [████████░░░░░░░░░░░░] 112h
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 21 Feb 2026 at 00:16 UTC_
+_this was updated on 22 Feb 2026 at 00:15 UTC_
