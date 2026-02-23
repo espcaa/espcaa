@@ -1,12 +1,12 @@
-the last repo i worked on was solacite/french-baby-feet and my last commit was [9d04836](https://github.com/solacite/french-baby-feet/commit/9d048364ad035d42d2f4b95cd3fcb8b3266a8ca1) \
+the last repo i worked on was solacite/french-baby-feet and my last commit was [8a44d6b](https://github.com/solacite/french-baby-feet/commit/8a44d6ba169de88913ab60c6fddf6d7760e1f34b) \
 \
-yesterday, i spent 35min coding! \
+yesterday, i spent 1h30 coding! \
 \
 random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 266h
+↳ Gdscript3  [████████████████████] 267h
 ↳ Gdscript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [████████░░░░░░░░░░░░] 112h
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
@@ -14,7 +14,7 @@ random stats (all time data): \
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
 ↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
-↳ Aseprite   [██░░░░░░░░░░░░░░░░░░] 20h
+↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
 ↳ Other      [█░░░░░░░░░░░░░░░░░░░] 19h
 ```
 -°-
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 22 Feb 2026 at 00:15 UTC_
+_this was updated on 23 Feb 2026 at 00:16 UTC_
