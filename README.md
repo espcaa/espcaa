@@ -6,8 +6,8 @@ random stats (all time data): \
 \
 -°-
 ```
-↳ Gdscript3  [████████████████████] 267h
-↳ Gdscript   [███████████░░░░░░░░░] 145h
+↳ GDScript3  [████████████████████] 267h
+↳ GDScript   [███████████░░░░░░░░░] 145h
 ↳ TypeScript [████████░░░░░░░░░░░░] 112h
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 24 Feb 2026 at 00:17 UTC_
+_this was updated on 25 Feb 2026 at 00:18 UTC_
