@@ -1,6 +1,6 @@
 the last repo i worked on was solacite/french-baby-feet and my last commit was [8a44d6b](https://github.com/solacite/french-baby-feet/commit/8a44d6ba169de88913ab60c6fddf6d7760e1f34b) \
 \
-yesterday, i spent 9min coding! \
+yesterday, i spent 3h38 coding! \
 \
 random stats (all time data): \
 \
@@ -12,7 +12,7 @@ random stats (all time data): \
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
-↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 24h
+↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 28h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
 ↳ Other      [█░░░░░░░░░░░░░░░░░░░] 19h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 02 Mar 2026 at 00:16 UTC_
+_this was updated on 03 Mar 2026 at 00:17 UTC_
