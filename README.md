@@ -1,6 +1,6 @@
-the last repo i worked on was solacite/french-baby-feet and my last commit was [8a44d6b](https://github.com/solacite/french-baby-feet/commit/8a44d6ba169de88913ab60c6fddf6d7760e1f34b) \
+the last repo i worked on was espcaa/boarding-pass-scanner and my last commit was [581ce74](https://github.com/espcaa/boarding-pass-scanner/commit/581ce74edec2043b718ec3e0ba85aa268ba02bab) \
 \
-yesterday, i spent 3h38 coding! \
+yesterday, i spent 2h56 coding! \
 \
 random stats (all time data): \
 \
@@ -12,7 +12,7 @@ random stats (all time data): \
 ↳ Go         [███████░░░░░░░░░░░░░] 94h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 49h
-↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 28h
+↳ Kotlin     [██░░░░░░░░░░░░░░░░░░] 33h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
 ↳ Other      [█░░░░░░░░░░░░░░░░░░░] 19h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 03 Mar 2026 at 00:17 UTC_
+_this was updated on 05 Mar 2026 at 00:17 UTC_
