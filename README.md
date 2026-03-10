@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/laptop and my last commit was [d67469c](https://github.com/espcaa/laptop/commit/d67469c89c5f894feeb23dcb1ab6b0a3ed852b56) \
+the last repo i worked on was espcaa/boarding-pass-scanner and my last commit was [9b5b88c](https://github.com/espcaa/boarding-pass-scanner/commit/9b5b88cca02bd52ff772a8a830bb83a439d610d1) \
 \
-yesterday, i spent 14min coding! \
+yesterday, i spent 47min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 09 Mar 2026 at 00:16 UTC_
+_this was updated on 10 Mar 2026 at 00:13 UTC_
