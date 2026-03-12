@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/boarding-pass-scanner and my last commit was [9b5b88c](https://github.com/espcaa/boarding-pass-scanner/commit/9b5b88cca02bd52ff772a8a830bb83a439d610d1) \
+the last repo i worked on was espcaa/spaceship-tui and my last commit was [4b20ced](https://github.com/espcaa/spaceship-tui/commit/4b20cedc43f2f87d16a71548267819d0485e7bba) \
 \
-yesterday, i spent 1h57 coding! \
+yesterday, i spent 3min coding! \
 \
 random stats (all time data): \
 \
@@ -15,7 +15,7 @@ random stats (all time data): \
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 39h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
-↳ Other      [█░░░░░░░░░░░░░░░░░░░] 19h
+↳ TSX        [█░░░░░░░░░░░░░░░░░░░] 19h
 ```
 -°-
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 11 Mar 2026 at 00:14 UTC_
+_this was updated on 12 Mar 2026 at 00:14 UTC_
