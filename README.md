@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/random-workflows-that-actually-are-bots and my last commit was [fb026f7](https://github.com/espcaa/random-workflows-that-actually-are-bots/commit/fb026f772b4634549181234e05b80f0d982f7d4e) \
+the last repo i worked on was espcaa/wakatime-aseprite and my last commit was [04bc400](https://github.com/espcaa/wakatime-aseprite/commit/04bc400b1f761bbb106a9ceded4ab8ef794a2458) \
 \
-yesterday, i spent 2h29 coding! \
+yesterday, i spent 46min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 17 Apr 2026 at 00:24 UTC_
+_this was updated on 18 Apr 2026 at 00:22 UTC_
