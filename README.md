@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/lookout and my last commit was [a927f3a](https://github.com/espcaa/lookout/commit/a927f3ab9cb158663790a44d14b8367978107261) \
 \
-yesterday, i spent 2min coding! \
+yesterday, i spent 0s coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 20 Apr 2026 at 00:23 UTC_
+_this was updated on 21 Apr 2026 at 00:25 UTC_
