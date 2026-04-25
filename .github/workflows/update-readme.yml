@@ -27,7 +27,7 @@ jobs:
       - name: download gooo :)
         uses: actions/setup-go@v6
         with:
-          go-version: "1.21"
+          go-version: "1.25.4"
 
       - name: install the shiny packages
         run: cd scripts && go mod tidy && go install
