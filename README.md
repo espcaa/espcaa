@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/faster-slack-client and my last commit was [1c738fc](https://github.com/espcaa/faster-slack-client/commit/1c738fc93d9add1afd4d1b010ea9890cf6e1ed09) \
+the last repo i worked on was espcaa/faster-slack-client and my last commit was [65d6ef4](https://github.com/espcaa/faster-slack-client/commit/65d6ef4c23318098b100a742e38e5c7f43b3426f) \
 \
-yesterday, i spent 2h35 coding! \
+yesterday, i spent 1h18 coding! \
 \
 random stats (all time data): \
 \
@@ -8,14 +8,14 @@ random stats (all time data): \
 ```
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
-↳ TypeScript [█████████░░░░░░░░░░░] 126h
+↳ TypeScript [█████████░░░░░░░░░░░] 127h
 ↳ Go         [████████░░░░░░░░░░░░] 109h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 44h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
-↳ TSX        [█░░░░░░░░░░░░░░░░░░░] 19h
+↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 19h
 ```
 -°-
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 28 Apr 2026 at 00:29 UTC_
+_this was updated on 29 Apr 2026 at 00:30 UTC_
