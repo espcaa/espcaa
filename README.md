@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/faster-slack-client and my last commit was [26b6fa8](https://github.com/espcaa/faster-slack-client/commit/26b6fa8b6a7a03d27f1fb7cd8cd65ad4272117be) \
+the last repo i worked on was espcaa/faster-slack-client and my last commit was [eab0e56](https://github.com/espcaa/faster-slack-client/commit/eab0e569a2130b1569279e5dde960072d6aea5b8) \
 \
-yesterday, i spent 2h42 coding! \
+yesterday, i spent 1h02 coding! \
 \
 random stats (all time data): \
 \
@@ -14,8 +14,8 @@ random stats (all time data): \
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 44h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
-↳ CSS        [██░░░░░░░░░░░░░░░░░░] 21h
-↳ Aseprite   [█░░░░░░░░░░░░░░░░░░░] 20h
+↳ CSS        [██░░░░░░░░░░░░░░░░░░] 22h
+↳ JSON       [█░░░░░░░░░░░░░░░░░░░] 20h
 ```
 -°-
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 01 May 2026 at 00:31 UTC_
+_this was updated on 02 May 2026 at 00:28 UTC_
