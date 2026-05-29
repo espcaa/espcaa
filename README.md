@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/mp3-player and my last commit was [5672705](https://github.com/espcaa/mp3-player/commit/5672705c838b4300db17dfdbc7e460bd23354616) \
+the last repo i worked on was espcaa/mp3-player and my last commit was [4459808](https://github.com/espcaa/mp3-player/commit/445980878472fd2d8157f4ed2219e1e6c545a724) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 1min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 28 May 2026 at 00:33 UTC_
+_this was updated on 29 May 2026 at 00:38 UTC_
