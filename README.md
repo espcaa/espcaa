@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/random-workflows-that-actually-are-bots and my last commit was [1b8e910](https://github.com/espcaa/random-workflows-that-actually-are-bots/commit/1b8e9105afef19762bc28aab949fe33d148da24b) \
+the last repo i worked on was espcaa/mp3-player and my last commit was [f41d6ed](https://github.com/espcaa/mp3-player/commit/f41d6edc7715ce8fad5899db8ce143e5d39378b2) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 30min coding! \
 \
 random stats (all time data): \
 \
@@ -12,7 +12,7 @@ random stats (all time data): \
 ↳ Go         [████████░░░░░░░░░░░░] 115h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
-↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 44h
+↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
 ↳ CSS        [██░░░░░░░░░░░░░░░░░░] 24h
 ↳ TypeScript [██░░░░░░░░░░░░░░░░░░] 22h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 21h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 14 Jun 2026 at 00:40 UTC_
+_this was updated on 15 Jun 2026 at 00:42 UTC_
