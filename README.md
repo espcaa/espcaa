@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/mp3-player and my last commit was [ead7d6d](https://github.com/espcaa/mp3-player/commit/ead7d6d8dc81c504584ad901188848f073b12b1d) \
 \
-yesterday, i spent 13min coding! \
+yesterday, i spent 2h19 coding! \
 \
 random stats (all time data): \
 \
@@ -9,7 +9,7 @@ random stats (all time data): \
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ TypeScript [██████████░░░░░░░░░░] 141h
-↳ Go         [████████░░░░░░░░░░░░] 116h
+↳ Go         [████████░░░░░░░░░░░░] 118h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 26 Jun 2026 at 00:38 UTC_
+_this was updated on 27 Jun 2026 at 00:36 UTC_
