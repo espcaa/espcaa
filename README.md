@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/mp3-player and my last commit was [ead7d6d](https://github.com/espcaa/mp3-player/commit/ead7d6d8dc81c504584ad901188848f073b12b1d) \
+the last repo i worked on was espcaa/slack-flight-tracking and my last commit was [ca56596](https://github.com/espcaa/slack-flight-tracking/commit/ca56596e6d0a8465313ae2041a432c073c4edbd1) \
 \
-yesterday, i spent 9min coding! \
+yesterday, i spent 17min coding! \
 \
 random stats (all time data): \
 \
@@ -9,7 +9,7 @@ random stats (all time data): \
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ TypeScript [██████████░░░░░░░░░░] 141h
-↳ Go         [████████░░░░░░░░░░░░] 118h
+↳ Go         [█████████░░░░░░░░░░░] 119h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 29 Jun 2026 at 00:38 UTC_
+_this was updated on 30 Jun 2026 at 00:36 UTC_
