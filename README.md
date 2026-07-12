@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/sleep-slackbot and my last commit was [5a9a4ca](https://github.com/espcaa/sleep-slackbot/commit/5a9a4ca21fb49bc4df9ac8f1622712bf9ec149c2) \
+the last repo i worked on was espcaa/sj-slackbot and my last commit was [80e766d](https://github.com/espcaa/sj-slackbot/commit/80e766d8bfc740ccf72b3029b94a7ba858ed88a1) \
 \
-yesterday, i spent 19min coding! \
+yesterday, i spent 3h51 coding! \
 \
 random stats (all time data): \
 \
@@ -9,7 +9,7 @@ random stats (all time data): \
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ TypeScript [██████████░░░░░░░░░░] 141h
-↳ Go         [██████████░░░░░░░░░░] 135h
+↳ Go         [██████████░░░░░░░░░░] 136h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 11 Jul 2026 at 15:50 UTC_
+_this was updated on 12 Jul 2026 at 02:02 UTC_
