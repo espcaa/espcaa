@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/sj-slackbot and my last commit was [80e766d](https://github.com/espcaa/sj-slackbot/commit/80e766d8bfc740ccf72b3029b94a7ba858ed88a1) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 40min coding! \
 \
 random stats (all time data): \
 \
@@ -9,7 +9,7 @@ random stats (all time data): \
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ TypeScript [██████████░░░░░░░░░░] 141h
-↳ Go         [██████████░░░░░░░░░░] 136h
+↳ Go         [██████████░░░░░░░░░░] 137h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 14 Jul 2026 at 01:50 UTC_
+_this was updated on 15 Jul 2026 at 01:47 UTC_
