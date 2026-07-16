@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/sj-slackbot and my last commit was [80e766d](https://github.com/espcaa/sj-slackbot/commit/80e766d8bfc740ccf72b3029b94a7ba858ed88a1) \
+the last repo i worked on was espcaa/website and my last commit was [74870a9](https://github.com/espcaa/website/commit/74870a9247ba75c1ff73b98f67de0a8e557faec3) \
 \
-yesterday, i spent 40min coding! \
+yesterday, i spent 18min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 15 Jul 2026 at 01:47 UTC_
+_this was updated on 16 Jul 2026 at 01:57 UTC_
