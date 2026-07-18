@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/whack-a-haj and my last commit was [4637fad](https://github.com/espcaa/whack-a-haj/commit/4637fad0040c943a59d12ac22aaead67c1861955) \
+the last repo i worked on was espcaa/sleep-slackbot and my last commit was [aa394e7](https://github.com/espcaa/sleep-slackbot/commit/aa394e7a6bbd5d440ef85c6e78b0c683b2e1c6ca) \
 \
-yesterday, i spent 1h35 coding! \
+yesterday, i spent 25min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 17 Jul 2026 at 02:01 UTC_
+_this was updated on 18 Jul 2026 at 01:50 UTC_
