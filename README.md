@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/signal-fuckery and my last commit was [6bcc8b9](https://github.com/espcaa/signal-fuckery/commit/6bcc8b992aac6b7cd2e90590adef9ff7b5aa357e) \
+the last repo i worked on was espcaa/sleep-slackbot and my last commit was [3920aeb](https://github.com/espcaa/sleep-slackbot/commit/3920aebc3140af1a4ea2928303d018bed6b00f7c) \
 \
-yesterday, i spent 13min coding! \
+yesterday, i spent 38min coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 30 Jul 2026 at 01:48 UTC_
+_this was updated on 31 Jul 2026 at 02:06 UTC_
