@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/hammock and my last commit was [41ca8a9](https://github.com/espcaa/hammock/commit/41ca8a98a8118850389c963744a548dd28361c59) \
+the last repo i worked on was espcaa/hammock and my last commit was [ab4a2d1](https://github.com/espcaa/hammock/commit/ab4a2d19cbf9bc0b032770234087c1f2b41ef396) \
 \
-yesterday, i spent 3h35 coding! \
+yesterday, i spent 1h04 coding! \
 \
 random stats (all time data): \
 \
@@ -8,7 +8,7 @@ random stats (all time data): \
 ```
 ↳ GDScript3  [████████████████████] 278h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
-↳ Go         [██████████░░░░░░░░░░] 143h
+↳ Go         [██████████░░░░░░░░░░] 144h
 ↳ TypeScript [██████████░░░░░░░░░░] 142h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 03 Aug 2026 at 02:06 UTC_
+_this was updated on 04 Aug 2026 at 01:51 UTC_
