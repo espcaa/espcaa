@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/trouduction and my last commit was [6e28d51](https://github.com/espcaa/trouduction/commit/6e28d51d79f013b0f4564055f2e0316993e08caf) \
+the last repo i worked on was espcaa/trouduction and my last commit was [edd2164](https://github.com/espcaa/trouduction/commit/edd21640377757c1aecdb903f960446f983a9b04) \
 \
-yesterday, i spent 6min coding! \
+yesterday, i spent 0s coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 17 Aug 2026 at 00:51 UTC_
+_this was updated on 18 Aug 2026 at 00:48 UTC_
