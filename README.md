@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/trouduction and my last commit was [edd2164](https://github.com/espcaa/trouduction/commit/edd21640377757c1aecdb903f960446f983a9b04) \
 \
-yesterday, i spent 40min coding! \
+yesterday, i spent 34min coding! \
 \
 random stats (all time data): \
 \
@@ -14,7 +14,7 @@ random stats (all time data): \
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
 ↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
 ↳ CSS        [██░░░░░░░░░░░░░░░░░░] 31h
-↳ Astro      [██░░░░░░░░░░░░░░░░░░] 24h
+↳ Astro      [██░░░░░░░░░░░░░░░░░░] 25h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 23h
 ```
 -°-
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 19 Aug 2026 at 00:49 UTC_
+_this was updated on 20 Aug 2026 at 00:49 UTC_
