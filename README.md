@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/trouduction and my last commit was [edd2164](https://github.com/espcaa/trouduction/commit/edd21640377757c1aecdb903f960446f983a9b04) \
+the last repo i worked on was espcaa/compass and my last commit was [6983cda](https://github.com/espcaa/compass/commit/6983cda975132314237ce42cb8afaee74d889c59) \
 \
-yesterday, i spent 1h11 coding! \
+yesterday, i spent 2h45 coding! \
 \
 random stats (all time data): \
 \
@@ -8,12 +8,12 @@ random stats (all time data): \
 ```
 ↳ GDScript3  [████████████████████] 278h
 ↳ Go         [███████████░░░░░░░░░] 150h
+↳ TypeScript [██████████░░░░░░░░░░] 145h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
-↳ TypeScript [██████████░░░░░░░░░░] 144h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
-↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 45h
-↳ CSS        [██░░░░░░░░░░░░░░░░░░] 34h
+↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 46h
+↳ CSS        [███░░░░░░░░░░░░░░░░░] 35h
 ↳ Astro      [██░░░░░░░░░░░░░░░░░░] 27h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 23h
 ```
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 24 Aug 2026 at 00:52 UTC_
+_this was updated on 25 Aug 2026 at 00:51 UTC_
