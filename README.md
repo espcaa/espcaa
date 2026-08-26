@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/compass and my last commit was [6983cda](https://github.com/espcaa/compass/commit/6983cda975132314237ce42cb8afaee74d889c59) \
+the last repo i worked on was espcaa/compass and my last commit was [d5db173](https://github.com/espcaa/compass/commit/d5db173cc2edb5c8e618d5b42c28f4917c794aad) \
 \
-yesterday, i spent 2h45 coding! \
+yesterday, i spent 3h17 coding! \
 \
 random stats (all time data): \
 \
@@ -12,7 +12,7 @@ random stats (all time data): \
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
-↳ Kotlin     [███░░░░░░░░░░░░░░░░░] 46h
+↳ Kotlin     [████░░░░░░░░░░░░░░░░] 49h
 ↳ CSS        [███░░░░░░░░░░░░░░░░░] 35h
 ↳ Astro      [██░░░░░░░░░░░░░░░░░░] 27h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 23h
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 25 Aug 2026 at 00:51 UTC_
+_this was updated on 26 Aug 2026 at 00:52 UTC_
