@@ -1,6 +1,6 @@
 the last repo i worked on was espcaa/compass and my last commit was [816430d](https://github.com/espcaa/compass/commit/816430d3e8c4ae0f5016d89fd8dfd9603efcbe9c) \
 \
-yesterday, i spent 1min coding! \
+yesterday, i spent 0s coding! \
 \
 random stats (all time data): \
 \
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 31 Aug 2026 at 02:47 UTC_
+_this was updated on 01 Sep 2026 at 02:57 UTC_
