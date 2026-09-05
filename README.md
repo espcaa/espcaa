@@ -1,6 +1,6 @@
-the last repo i worked on was espcaa/compass and my last commit was [816430d](https://github.com/espcaa/compass/commit/816430d3e8c4ae0f5016d89fd8dfd9603efcbe9c) \
+the last repo i worked on was hackclub/hackrail and my last commit was [eeeb3f3](https://github.com/hackclub/hackrail/commit/eeeb3f30f7423f378b1af1728956a83b9490b453) \
 \
-yesterday, i spent 1h24 coding! \
+yesterday, i spent 2h18 coding! \
 \
 random stats (all time data): \
 \
@@ -8,13 +8,13 @@ random stats (all time data): \
 ```
 ↳ GDScript3  [████████████████████] 278h
 ↳ Go         [███████████░░░░░░░░░] 150h
-↳ TypeScript [███████████░░░░░░░░░] 149h
+↳ TypeScript [███████████░░░░░░░░░] 150h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ Kotlin     [████░░░░░░░░░░░░░░░░] 59h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 50h
-↳ CSS        [███░░░░░░░░░░░░░░░░░] 39h
-↳ Astro      [███░░░░░░░░░░░░░░░░░] 35h
+↳ CSS        [███░░░░░░░░░░░░░░░░░] 40h
+↳ Astro      [███░░░░░░░░░░░░░░░░░] 36h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 24h
 ```
 -°-
@@ -26,4 +26,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 04 Sep 2026 at 02:20 UTC_
+_this was updated on 05 Sep 2026 at 02:21 UTC_
