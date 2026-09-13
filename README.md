@@ -1,6 +1,18 @@
-the last repo i worked on was hackclub/hackrail and my last commit was [918e3d4](https://github.com/hackclub/hackrail/commit/918e3d4881b3e89c9553726930ad0855e76d024c) \
+hi!
+i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (and more recently electronics) and trying to get better at it! \
 \
+the last repo i worked on was espcaa/espcaa and my last commit was [1795322](https://github.com/espcaa/espcaa/commit/1795322924b428fb1f50f6a62228303f310822a7) \
 yesterday, i spent 2h41 coding! \
+\
+
+here are some of the more interesting projects i worked on recently: \
+
+- [openvelov](github.com/espcaa/openvelov) - a reverse engineered client for my city's bike sharing system!
+- [mp3player](github.com/espcaa/mp3player) - a quite complex music playback device designed for everyday use.
+- [spaceship-tui](github.com/espcaa/spaceship-tui) - a simple tui to manage your spaceship domains's dns records!
+- [clickydevboard](github.com/espcaa/clickydevboard) - rp2350 based devboard with a twist: mechanical switches directly on the board!
+
+\
 \
 random stats (all time data): \
 \
@@ -12,7 +24,7 @@ random stats (all time data): \
 ↳ TypeScript [███████████░░░░░░░░░] 151h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
-↳ Kotlin     [████░░░░░░░░░░░░░░░░] 59h
+↳ Kotlin     [████░░░░░░░░░░░░░░░░] 61h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 51h
 ↳ CSS        [███░░░░░░░░░░░░░░░░░] 44h
 ↳ Astro      [███░░░░░░░░░░░░░░░░░] 42h
@@ -28,4 +40,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 13 Sep 2026 at 02:30 UTC_
+_this was updated on 13 Sep 2026 at 21:54 UTC_
