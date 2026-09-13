@@ -2,8 +2,7 @@ hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (and more recently electronics) and trying to get better at it! \
 \
 the last repo i worked on was {{.LastRepo}} and my last commit was {{.LastCommit}} \
-_
-yesterday, i spent {{.HoursWorked}} coding! \
+_yesterday, i spent {{.HoursWorked}} coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
