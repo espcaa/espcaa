@@ -5,6 +5,7 @@ yesterday, i spent 2h41 coding! \
 random stats (all time data): \
 \
 -°-
+
 ```
 ↳ GDScript3  [████████████████████] 278h
 ↳ Go         [███████████░░░░░░░░░] 155h
@@ -17,6 +18,7 @@ random stats (all time data): \
 ↳ Astro      [███░░░░░░░░░░░░░░░░░] 42h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 25h
 ```
+
 -°-
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\__\/)\
