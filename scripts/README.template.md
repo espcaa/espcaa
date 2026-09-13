@@ -1,5 +1,5 @@
 hi!
-i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (and more recently electronics) and trying to get better at it! \
+i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
 the last repo i worked on was {{.LastRepo}} and my last commit was {{.LastCommit}} \
 _yesterday, i spent {{.HoursWorked}} coding!_ \
