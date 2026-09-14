@@ -2,7 +2,7 @@ hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
 the last repo i worked on was espcaa/espcaa and my last commit was [17afd86](https://github.com/espcaa/espcaa/commit/17afd86ea29dad9e84aac4e3c311bef49c3f0ce9) \
-_yesterday, i spent 2h41 coding!_ \
+_yesterday, i spent 3h52 coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 13 Sep 2026 at 22:08 UTC_
+_this was updated on 14 Sep 2026 at 02:46 UTC_
