@@ -1,8 +1,8 @@
 hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
-the last repo i worked on was espcaa/dns and my last commit was [b7d0e15](https://github.com/espcaa/dns/commit/b7d0e15a8b817151cabfc58cecc5ef0d90e7d105) \
-_yesterday, i spent 1h05 coding!_ \
+the last repo i worked on was hackclub/hackrail and my last commit was [89b459e](https://github.com/hackclub/hackrail/commit/89b459e47f03f03a4be02f7c07dc1f3b0bcac639) \
+_yesterday, i spent 1h44 coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -18,14 +18,14 @@ random stats (all time data): \
 
 ```
 ↳ GDScript3  [████████████████████] 278h
-↳ Go         [███████████░░░░░░░░░] 157h
+↳ Go         [███████████░░░░░░░░░] 158h
 ↳ TypeScript [███████████░░░░░░░░░] 153h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ Kotlin     [████░░░░░░░░░░░░░░░░] 61h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 51h
-↳ CSS        [███░░░░░░░░░░░░░░░░░] 45h
 ↳ Astro      [███░░░░░░░░░░░░░░░░░] 45h
+↳ CSS        [███░░░░░░░░░░░░░░░░░] 45h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 26h
 ```
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 19 Sep 2026 at 02:34 UTC_
+_this was updated on 20 Sep 2026 at 02:46 UTC_
