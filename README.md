@@ -1,8 +1,8 @@
 hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
-the last repo i worked on was hackclub/hackrail and my last commit was [e10571d](https://github.com/hackclub/hackrail/commit/e10571d0d5d1b4e2587fbd711242e5e9b1963765) \
-_yesterday, i spent 2h05 coding!_ \
+the last repo i worked on was hackclub/hackrail and my last commit was [5fba723](https://github.com/hackclub/hackrail/commit/5fba72359056826f8bc92361a350073c618c421e) \
+_yesterday, i spent 30min coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 27 Sep 2026 at 02:57 UTC_
+_this was updated on 28 Sep 2026 at 02:56 UTC_
