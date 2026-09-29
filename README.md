@@ -2,7 +2,7 @@ hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
 the last repo i worked on was hackclub/hackrail and my last commit was [5fba723](https://github.com/hackclub/hackrail/commit/5fba72359056826f8bc92361a350073c618c421e) \
-_yesterday, i spent 30min coding!_ \
+_yesterday, i spent 43min coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -18,7 +18,7 @@ random stats (all time data): \
 
 ```
 ↳ GDScript3  [████████████████████] 278h
-↳ Go         [████████████░░░░░░░░] 162h
+↳ Go         [████████████░░░░░░░░] 163h
 ↳ TypeScript [███████████░░░░░░░░░] 154h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 28 Sep 2026 at 02:56 UTC_
+_this was updated on 29 Sep 2026 at 03:36 UTC_
