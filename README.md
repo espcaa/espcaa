@@ -2,7 +2,7 @@ hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
 the last repo i worked on was espcaa/djungelskog and my last commit was [c3dce98](https://github.com/espcaa/djungelskog/commit/c3dce98c518e573e65e847a93972424abb8d53ab) \
-_yesterday, i spent 1h03 coding!_ \
+_yesterday, i spent 49min coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 05 Oct 2026 at 03:25 UTC_
+_this was updated on 06 Oct 2026 at 04:12 UTC_
