@@ -1,8 +1,8 @@
 hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
-the last repo i worked on was hackclub/hackrail and my last commit was [826a15b](https://github.com/hackclub/hackrail/commit/826a15ba4e32fa285176d5d1d6dccaa7ca065980) \
-_yesterday, i spent 51min coding!_ \
+the last repo i worked on was duvslag-mail/webmail and my last commit was [a0a84de](https://github.com/duvslag-mail/webmail/commit/a0a84de30473b983ac79d1b8046d2cab4191d5a9) \
+_yesterday, i spent 1h59 coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -18,7 +18,7 @@ random stats (all time data): \
 
 ```
 ↳ GDScript3  [████████████████████] 278h
-↳ Go         [████████████░░░░░░░░] 168h
+↳ Go         [████████████░░░░░░░░] 170h
 ↳ TypeScript [███████████░░░░░░░░░] 156h
 ↳ GDScript   [██████████░░░░░░░░░░] 145h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 18 Oct 2026 at 02:28 UTC_
+_this was updated on 19 Oct 2026 at 02:42 UTC_
