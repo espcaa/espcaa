@@ -1,8 +1,8 @@
 hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
-the last repo i worked on was duvslag-mail/webmail and my last commit was [7856858](https://github.com/duvslag-mail/webmail/commit/7856858ede314e0b457b83c42416d53e022a45da) \
-_yesterday, i spent 7min coding!_ \
+the last repo i worked on was duvslag-mail/webmail and my last commit was [57bc04d](https://github.com/duvslag-mail/webmail/commit/57bc04dcb57baee24624c5d6e1aeb1aa26114345) \
+_yesterday, i spent 2min coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 25 Oct 2026 at 02:38 UTC_
+_this was updated on 26 Oct 2026 at 02:37 UTC_
