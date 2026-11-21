@@ -2,7 +2,7 @@ hi!
 i'm alice, a french student and a hobbyist programmer/maker. i love making random stuff with code (more recently electronics too) and trying to get better at it! \
 \
 the last repo i worked on was espcaa/pingouin and my last commit was [ea9059b](https://github.com/espcaa/pingouin/commit/ea9059b6cc6ba747f8ff062ab520485a919f7341) \
-_yesterday, i spent 2min coding!_ \
+_yesterday, i spent 2h13 coding!_ \
 \
 here are some of the more interesting projects i worked on recently:
 
@@ -18,14 +18,14 @@ random stats (all time data): \
 
 ```
 ↳ GDScript3  [████████████████████] 278h
-↳ Go         [█████████████░░░░░░░] 174h
+↳ Go         [█████████████░░░░░░░] 176h
 ↳ TypeScript [███████████░░░░░░░░░] 156h
 ↳ GDScript   [███████████░░░░░░░░░] 146h
 ↳ Scene      [██████░░░░░░░░░░░░░░] 79h
 ↳ Kotlin     [████░░░░░░░░░░░░░░░░] 61h
 ↳ JavaScript [████░░░░░░░░░░░░░░░░] 51h
 ↳ CSS        [████░░░░░░░░░░░░░░░░] 51h
-↳ Astro      [████░░░░░░░░░░░░░░░░] 50h
+↳ Astro      [████░░░░░░░░░░░░░░░░] 51h
 ↳ Other      [██░░░░░░░░░░░░░░░░░░] 30h
 ```
 
@@ -38,4 +38,4 @@ random stats (all time data): \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;|\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 \
-_this was updated on 19 Nov 2026 at 05:24 UTC_
+_this was updated on 21 Nov 2026 at 05:03 UTC_
